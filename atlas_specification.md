@@ -41,3 +41,18 @@ Major Swing Low
 Range High
 
 Range Low
+
+
+# Liquidity Relevance
+
+Every liquidity level receives a relevance score.
+
+Base Score
+
+Evidence Score
+
+Penalty Score
+
+Final Score
+
+0–100
